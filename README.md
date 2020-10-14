@@ -1,11 +1,13 @@
 ### Hi there 👋
+[![Surplus-Spec's solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=kjoohyu)](https://solved.ac/profile/kjoohyu)
+
 
 <!--
 **Surplus-Spec/Surplus-Spec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-[![Surplus-Spec's solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=kjoohyu)](https://solved.ac/profile/kjoohyu)
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
