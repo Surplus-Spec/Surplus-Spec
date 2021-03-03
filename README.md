@@ -29,7 +29,6 @@ KIM JUHYEONG  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=fl
 
 
 
-
 [![Surplus-Spec's solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=kjoohyu)](https://solved.ac/profile/kjoohyu)
 
 https://img.shields.io/badge/<LABEL>-<Python>-<green>
