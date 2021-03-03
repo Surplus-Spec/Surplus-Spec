@@ -1,4 +1,4 @@
-# KIM JUHYEONG  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kjoohyu@gmail.com)](mailto:kjoohyu@gmail.com) 
+# Juhyeong Kim
 
 <img src="https://img.shields.io/badge/Machine Learning-00A8E1?style=flat-square&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Reinforcement Learning-00945E?style=flat-square&logoColor=white"/></a>
