@@ -1,15 +1,17 @@
 # Juhyeong Kim
 
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Mathworks-0076A8?style=flat-square&logo=Mathworks&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>
+
 <img src="https://img.shields.io/badge/Machine Learning-00A8E1?style=flat-square&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Reinforcement Learning-00945E?style=flat-square&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Deep Learning-FF8126?style=flat-square&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Meta Learning-6428B4?style=flat-square&logoColor=white"/></a>
 
 
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Mathworks-0076A8?style=flat-square&logo=Mathworks&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>
+
 
 ## :baby_chick: Graduation
 - 2009.03 ~ 2012.02 경성고등학교
