@@ -25,7 +25,7 @@
 ## :rabbit2: **Conference**
 - [S. Han, H. Eom, J. Kim and C. Park, "Optimal DNN architecture search using Bayesian Optimization Hyperband for arrhythmia detection," 2020 IEEE Wireless Power Transfer Conference (WPTC), Seoul, Korea (South), 2020, pp. 357-360, doi: 10.1109/WPTC48563.2020.9295590](https://ieeexplore.ieee.org/document/9295590)
 - [김주형; 박철수. 심전도 특징과 강화학습 최적화를 통한 개인 인증 시스템. 대한전자공학회 학술대회, 2020, 1414-1416.](https://www.dbpia.co.kr/pdf/pdfView.do?nodeId=NODE10448185&mark=0&useDate=&bookmarkCnt=0&ipRange=N&accessgl=Y&language=ko_KR)
-- [김주형; 박철수. eXplainable Artificial Intelligence(XAI)를 이용한 부정맥 감지 분석. 대한전자공학회 학술대회, 2021.06]
+- 김주형; 박철수. eXplainable Artificial Intelligence(XAI)를 이용한 부정맥 감지 분석. 대한전자공학회 학술대회, 2021.06
 
 
 
